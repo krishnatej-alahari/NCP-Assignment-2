@@ -1,0 +1,93 @@
+body {
+	font-family: 'Abel', sans-serif;
+	background-color: #80ffff;
+	height: 100%;
+}
+
+
+
+#st{
+	height: 150px;
+}
+
+h1 {
+	position: absolute;
+	top: 0;
+	left: 20%;
+}
+
+#logo {
+	width: 15%;
+	height: 150px;
+	clear: left;
+}
+
+ul {
+	top: 0px;
+	float: right;
+	display: inline-block;
+	background: purple;
+}
+
+li{
+	list-style-type: square;
+	float: left;
+	padding-right: 30px;
+	color: white;
+}
+
+#site{
+	position: relative;
+	top: 50px;
+}
+
+#signin{
+	border-style: solid;
+	position: relative;
+	top: 20px;
+	width: 30%;
+	float: right;
+}
+
+h2{
+	margin-top: -15px;
+	margin-left: 20px;
+	background: #999966;
+	width: 85px;
+}
+
+table{
+  	position: relative;
+	top: 20px;
+	text-align: center;
+	border-collapse: initial;
+}
+
+td, th {
+	border: 1px solid black;
+	padding-top: 10px;
+  	position: relative;
+	top: 20px;
+	width: 20%;
+	text-align: center;
+}
+
+#high{
+	background-color: #ffff66;
+}
+
+#low{
+	background-color: #99ff33;
+}
+
+
+#signup{
+	border-style: solid;
+	position: relative;
+	top: 40px;
+	width: 30%;
+	float: right;
+}
+
+
+

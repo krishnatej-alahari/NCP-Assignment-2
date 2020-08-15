@@ -1,0 +1,25 @@
+#about1{
+	position: relative;
+	top: 20px;
+	width: 60%;
+	display: inline-block;
+	font-style: italic;
+
+}
+
+#about3{
+	position: relative;
+	top: 20px;
+	width: 60%;
+	display: inline-block;
+	font-weight: bold;
+}
+
+#about2{
+	position: relative;
+	top: 20px;
+	width: 60%;
+	display: inline-block;
+	color: #ff00ff;
+	font-style: italic;
+}

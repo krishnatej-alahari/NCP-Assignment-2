@@ -1,0 +1,13 @@
+a:hover {
+  background-color: yellow;
+}
+
+marquee {
+	position: relative;
+	height: 30px;
+	background-color: #ffff66;
+	top: 90px;
+	text-decoration: underline;
+	text-shadow: 2px 2px red;
+	text-transform: uppercase;
+}
